@@ -1,1 +1,3 @@
-# Skakova_INM_707
+# INM707-Coursework
+
+## Postgraduate students: Tamila Skakova 
