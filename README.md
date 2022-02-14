@@ -1,3 +1,3 @@
 # INM707-Coursework
 
-## Postgraduate students: Tamila Skakova 
+## Postgraduate student: Tamila Skakova 
